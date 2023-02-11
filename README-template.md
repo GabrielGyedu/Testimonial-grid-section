@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 - Live Site URL: [Website](https://gabrielgyedu.github.io/Testimonial-grid-section/)
-- Solution URL: [Solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/testimonial-grid-section-6OxXIAdPDV))
+- Solution URL: [Solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/testimonial-grid-section-6OxXIAdPDV)
 
 ### Built with
 
